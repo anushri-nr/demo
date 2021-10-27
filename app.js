@@ -2,7 +2,7 @@
 // Constants
 // ---------------------------------------------------------------------------
 console.log("Hello world")
-const i = 2/0;
+i = 2/0;
 const serverUrl = 'http://localhost:5000/api';
 const storageKey = 'savedAccount';
 
